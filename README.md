@@ -1,14 +1,20 @@
 # EDA_Analysis
 
-## Dataset
-
-train.csv
+## Objective
+Analyze a dataset to uncover patterns, trends, and relationships using statistical summaries and visualizations.
 
 ## Features
+- Data cleaning (handling missing values)
+- Statistical summary (mean, median, std, etc.)
+- Distribution analysis (histograms)
+- Correlation analysis (heatmap)
+- Relationship analysis (pairplot, boxplots)
 
-* Statistical summary of data
-* Missing value identification and handling
-* Distribution analysis using histograms
-* Correlation analysis using heatmap
-* Relationship analysis using pairplot and boxplots
-* Identification of key influencing factors and patterns
+## Requirements
+- Python 
+- pandas
+- matplotlib
+- seaborn
+
+## Outcome
+Improves understanding of data patterns and supports better decision-making for further modeling.
